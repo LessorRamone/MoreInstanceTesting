@@ -1,0 +1,3 @@
+[submodule "Plugins/ActorImageMaker"]
+	path = Plugins/ActorImageMaker
+	url = git@github.com:LessorRamone/ActorImageMaker.git
